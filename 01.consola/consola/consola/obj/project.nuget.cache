@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZlcOccmA0K3qhcaYPzRx9er+74qe5812z+a4YF90F9704453PSPcQhVRFsnNILaSTB7PimzXb3zOTcRnCfnr2w==",
+  "success": true,
+  "projectFilePath": "E:\\practicas\\netcore 5\\01.consola\\consola\\consola\\consola.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Paolo\\.nuget\\packages\\microsoft.practices.enterpriselibrary.common.dll\\3.1.0\\microsoft.practices.enterpriselibrary.common.dll.3.1.0.nupkg.sha512",
+    "C:\\Users\\Paolo\\.nuget\\packages\\microsoft.practices.objectbuilder.dll\\3.1.0\\microsoft.practices.objectbuilder.dll.3.1.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"Microsoft.Practices.EnterpriseLibrary.Common.dll 3.1.0\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\" en lugar de la plataforma de destino del proyecto \"net5.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "Microsoft.Practices.EnterpriseLibrary.Common.dll",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"Microsoft.Practices.ObjectBuilder.dll 3.1.0\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\" en lugar de la plataforma de destino del proyecto \"net5.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "Microsoft.Practices.ObjectBuilder.dll",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

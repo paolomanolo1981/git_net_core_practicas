@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "consola/1.0.0": {
+        "dependencies": {
+          "Microsoft.Practices.EnterpriseLibrary.Common.dll": "3.1.0"
+        },
+        "runtime": {
+          "consola.dll": {}
+        }
+      },
+      "Microsoft.Practices.EnterpriseLibrary.Common.dll/3.1.0": {
+        "dependencies": {
+          "Microsoft.Practices.ObjectBuilder.dll": "3.1.0"
+        },
+        "runtime": {
+          "lib/2.0/Microsoft.Practices.EnterpriseLibrary.Common.dll": {
+            "assemblyVersion": "3.1.0.0",
+            "fileVersion": "3.1.0.0"
+          }
+        }
+      },
+      "Microsoft.Practices.ObjectBuilder.dll/3.1.0": {
+        "runtime": {
+          "lib/2.0/Microsoft.Practices.ObjectBuilder.dll": {
+            "assemblyVersion": "1.0.51206.0",
+            "fileVersion": "1.0.51206.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "consola/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Practices.EnterpriseLibrary.Common.dll/3.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-CtSbo1G4vmVPdIQOt/q36UUbn4lsA0bPHmKSZzk5Zg+KvC0gz1ZlcwEW3U/SutrsbIZxwGJKjpPJWiTHLmdvMQ==",
+      "path": "microsoft.practices.enterpriselibrary.common.dll/3.1.0",
+      "hashPath": "microsoft.practices.enterpriselibrary.common.dll.3.1.0.nupkg.sha512"
+    },
+    "Microsoft.Practices.ObjectBuilder.dll/3.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-v0aPjVectZQ0dSPEJQyk1yg61LAWN/Mwmzcxi4N5j+oWpGVZetWAw55QxxxXZL/HhZFTrnTuYlCJUN+MJjkC4w==",
+      "path": "microsoft.practices.objectbuilder.dll/3.1.0",
+      "hashPath": "microsoft.practices.objectbuilder.dll.3.1.0.nupkg.sha512"
+    }
+  }
+}

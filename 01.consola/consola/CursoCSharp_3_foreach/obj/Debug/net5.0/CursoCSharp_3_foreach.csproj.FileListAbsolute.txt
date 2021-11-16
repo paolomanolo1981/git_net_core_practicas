@@ -1,0 +1,16 @@
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_foreach\bin\Debug\net5.0\CursoCSharp_3_foreach.exe
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_foreach\bin\Debug\net5.0\CursoCSharp_3_foreach.deps.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_foreach\bin\Debug\net5.0\CursoCSharp_3_foreach.runtimeconfig.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_foreach\bin\Debug\net5.0\CursoCSharp_3_foreach.runtimeconfig.dev.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_foreach\bin\Debug\net5.0\CursoCSharp_3_foreach.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_foreach\bin\Debug\net5.0\ref\CursoCSharp_3_foreach.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_foreach\bin\Debug\net5.0\CursoCSharp_3_foreach.pdb
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_foreach\obj\Debug\net5.0\CursoCSharp_3_foreach.GeneratedMSBuildEditorConfig.editorconfig
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_foreach\obj\Debug\net5.0\CursoCSharp_3_foreach.AssemblyInfoInputs.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_foreach\obj\Debug\net5.0\CursoCSharp_3_foreach.AssemblyInfo.cs
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_foreach\obj\Debug\net5.0\CursoCSharp_3_foreach.csproj.CoreCompileInputs.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_foreach\obj\Debug\net5.0\CursoCSharp_3_foreach.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_foreach\obj\Debug\net5.0\ref\CursoCSharp_3_foreach.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_foreach\obj\Debug\net5.0\CursoCSharp_3_foreach.pdb
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_foreach\obj\Debug\net5.0\CursoCSharp_3_foreach.genruntimeconfig.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_foreach\obj\Debug\net5.0\CursoCSharp_3_foreach.csproj.AssemblyReference.cache

@@ -6,7 +6,7 @@ namespace MIConsolaNetCore
     {
         static void Main(string[] args)
         {
-            string cadena = "Hola Mundo";
+            string cadena = Console.ReadLine();
             Console.WriteLine(cadena);
         }
     }

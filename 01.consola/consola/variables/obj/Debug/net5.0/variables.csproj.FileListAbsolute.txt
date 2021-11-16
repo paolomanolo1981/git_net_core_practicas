@@ -1,0 +1,15 @@
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\variables\bin\Debug\net5.0\variables.exe
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\variables\bin\Debug\net5.0\variables.deps.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\variables\bin\Debug\net5.0\variables.runtimeconfig.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\variables\bin\Debug\net5.0\variables.runtimeconfig.dev.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\variables\bin\Debug\net5.0\variables.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\variables\bin\Debug\net5.0\ref\variables.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\variables\bin\Debug\net5.0\variables.pdb
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\variables\obj\Debug\net5.0\variables.GeneratedMSBuildEditorConfig.editorconfig
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\variables\obj\Debug\net5.0\variables.AssemblyInfoInputs.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\variables\obj\Debug\net5.0\variables.AssemblyInfo.cs
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\variables\obj\Debug\net5.0\variables.csproj.CoreCompileInputs.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\variables\obj\Debug\net5.0\variables.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\variables\obj\Debug\net5.0\ref\variables.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\variables\obj\Debug\net5.0\variables.pdb
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\variables\obj\Debug\net5.0\variables.genruntimeconfig.cache

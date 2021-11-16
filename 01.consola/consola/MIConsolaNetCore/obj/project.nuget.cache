@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yRAhiUCthHtVmyq57nGsDzW7dpx0kSiWWSX55LELa26Eb2NPWz8TYC+jiJal6zOT2B+ntC3wIa9sG/r10T4UaA==",
+  "dgSpecHash": "ARU6EMpBObUnzt3GUapCAMkYlWZjnyuA5XMuik1yj3Ics5heS+sy8om0uCkCV1x8pbzGulShu8sdR2ZQpRyj9g==",
   "success": true,
-  "projectFilePath": "E:\\practicas\\netcore 5\\01.consola\\consola\\MIConsolaNetCore\\MIConsolaNetCore.csproj",
+  "projectFilePath": "D:\\practicas\\net_core\\git_net_core_practicas\\01.consola\\consola\\MIConsolaNetCore\\MIConsolaNetCore.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

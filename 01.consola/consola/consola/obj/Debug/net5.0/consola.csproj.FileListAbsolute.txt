@@ -17,3 +17,22 @@ E:\practicas\netcore 5\01.consola\consola\consola\obj\Debug\net5.0\consola.genru
 E:\practicas\netcore 5\01.consola\consola\consola\bin\Debug\net5.0\Microsoft.Practices.EnterpriseLibrary.Common.dll
 E:\practicas\netcore 5\01.consola\consola\consola\bin\Debug\net5.0\Microsoft.Practices.ObjectBuilder.dll
 E:\practicas\netcore 5\01.consola\consola\consola\obj\Debug\net5.0\consola.csproj.CopyComplete
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\consola\bin\Debug\net5.0\consola.exe
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\consola\bin\Debug\net5.0\consola.deps.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\consola\bin\Debug\net5.0\consola.runtimeconfig.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\consola\bin\Debug\net5.0\consola.runtimeconfig.dev.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\consola\bin\Debug\net5.0\consola.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\consola\bin\Debug\net5.0\ref\consola.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\consola\bin\Debug\net5.0\consola.pdb
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\consola\bin\Debug\net5.0\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\consola\bin\Debug\net5.0\Microsoft.Practices.ObjectBuilder.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\consola\obj\Debug\net5.0\consola.csproj.AssemblyReference.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\consola\obj\Debug\net5.0\consola.GeneratedMSBuildEditorConfig.editorconfig
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\consola\obj\Debug\net5.0\consola.AssemblyInfoInputs.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\consola\obj\Debug\net5.0\consola.AssemblyInfo.cs
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\consola\obj\Debug\net5.0\consola.csproj.CoreCompileInputs.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\consola\obj\Debug\net5.0\consola.csproj.CopyComplete
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\consola\obj\Debug\net5.0\consola.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\consola\obj\Debug\net5.0\ref\consola.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\consola\obj\Debug\net5.0\consola.pdb
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\consola\obj\Debug\net5.0\consola.genruntimeconfig.cache

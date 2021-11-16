@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\practicas\\netcore 5\\01.consola\\consola\\MIConsolaNetCore\\MIConsolaNetCore.csproj": {}
+    "D:\\practicas\\net_core\\git_net_core_practicas\\01.consola\\consola\\MIConsolaNetCore\\MIConsolaNetCore.csproj": {}
   },
   "projects": {
-    "E:\\practicas\\netcore 5\\01.consola\\consola\\MIConsolaNetCore\\MIConsolaNetCore.csproj": {
+    "D:\\practicas\\net_core\\git_net_core_practicas\\01.consola\\consola\\MIConsolaNetCore\\MIConsolaNetCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\practicas\\netcore 5\\01.consola\\consola\\MIConsolaNetCore\\MIConsolaNetCore.csproj",
+        "projectUniqueName": "D:\\practicas\\net_core\\git_net_core_practicas\\01.consola\\consola\\MIConsolaNetCore\\MIConsolaNetCore.csproj",
         "projectName": "MIConsolaNetCore",
-        "projectPath": "E:\\practicas\\netcore 5\\01.consola\\consola\\MIConsolaNetCore\\MIConsolaNetCore.csproj",
+        "projectPath": "D:\\practicas\\net_core\\git_net_core_practicas\\01.consola\\consola\\MIConsolaNetCore\\MIConsolaNetCore.csproj",
         "packagesPath": "C:\\Users\\Paolo\\.nuget\\packages\\",
-        "outputPath": "E:\\practicas\\netcore 5\\01.consola\\consola\\MIConsolaNetCore\\obj\\",
+        "outputPath": "D:\\practicas\\net_core\\git_net_core_practicas\\01.consola\\consola\\MIConsolaNetCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

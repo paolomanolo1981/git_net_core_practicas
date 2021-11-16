@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZlcOccmA0K3qhcaYPzRx9er+74qe5812z+a4YF90F9704453PSPcQhVRFsnNILaSTB7PimzXb3zOTcRnCfnr2w==",
+  "dgSpecHash": "xHSDUiaBtil8j3c13x1HLqeCTO55TRMKgljQLBY/aksr73wwbbcXmKFQ0YO3EXXCcBc5xcqt3j3kursoK/tYxQ==",
   "success": true,
-  "projectFilePath": "E:\\practicas\\netcore 5\\01.consola\\consola\\consola\\consola.csproj",
+  "projectFilePath": "D:\\practicas\\net_core\\git_net_core_practicas\\01.consola\\consola\\consola\\consola.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Paolo\\.nuget\\packages\\microsoft.practices.enterpriselibrary.common.dll\\3.1.0\\microsoft.practices.enterpriselibrary.common.dll.3.1.0.nupkg.sha512",
     "C:\\Users\\Paolo\\.nuget\\packages\\microsoft.practices.objectbuilder.dll\\3.1.0\\microsoft.practices.objectbuilder.dll.3.1.0.nupkg.sha512"

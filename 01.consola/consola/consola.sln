@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_3_foreach", "Cu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_3_operadores", "CursoCSharp_3_operadores\CursoCSharp_3_operadores.csproj", "{1E91CD37-1C06-4999-95FA-19D89400592F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_3_conversiones", "CursoCSharp_3_conversiones\CursoCSharp_3_conversiones.csproj", "{A8E7AE21-4759-4EFC-BACB-646112ED77F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -73,6 +75,10 @@ Global
 		{1E91CD37-1C06-4999-95FA-19D89400592F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E91CD37-1C06-4999-95FA-19D89400592F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E91CD37-1C06-4999-95FA-19D89400592F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8E7AE21-4759-4EFC-BACB-646112ED77F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8E7AE21-4759-4EFC-BACB-646112ED77F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8E7AE21-4759-4EFC-BACB-646112ED77F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8E7AE21-4759-4EFC-BACB-646112ED77F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -88,6 +94,7 @@ Global
 		{D1E540A5-4350-4134-9667-72C3CBEDE0E3} = {66F319ED-8E7E-4627-B83D-5EE0719C3E8F}
 		{9B75798D-71A4-4A5B-9A51-9B2B49203D5F} = {66F319ED-8E7E-4627-B83D-5EE0719C3E8F}
 		{1E91CD37-1C06-4999-95FA-19D89400592F} = {66F319ED-8E7E-4627-B83D-5EE0719C3E8F}
+		{A8E7AE21-4759-4EFC-BACB-646112ED77F6} = {66F319ED-8E7E-4627-B83D-5EE0719C3E8F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F217241F-541D-4D28-A4E8-9FF97213E2DA}

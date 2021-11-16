@@ -1,0 +1,15 @@
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_conversiones\bin\Debug\net5.0\CursoCSharp_3_conversiones.exe
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_conversiones\bin\Debug\net5.0\CursoCSharp_3_conversiones.deps.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_conversiones\bin\Debug\net5.0\CursoCSharp_3_conversiones.runtimeconfig.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_conversiones\bin\Debug\net5.0\CursoCSharp_3_conversiones.runtimeconfig.dev.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_conversiones\bin\Debug\net5.0\CursoCSharp_3_conversiones.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_conversiones\bin\Debug\net5.0\ref\CursoCSharp_3_conversiones.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_conversiones\bin\Debug\net5.0\CursoCSharp_3_conversiones.pdb
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_conversiones\obj\Debug\net5.0\CursoCSharp_3_conversiones.GeneratedMSBuildEditorConfig.editorconfig
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_conversiones\obj\Debug\net5.0\CursoCSharp_3_conversiones.AssemblyInfoInputs.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_conversiones\obj\Debug\net5.0\CursoCSharp_3_conversiones.AssemblyInfo.cs
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_conversiones\obj\Debug\net5.0\CursoCSharp_3_conversiones.csproj.CoreCompileInputs.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_conversiones\obj\Debug\net5.0\CursoCSharp_3_conversiones.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_conversiones\obj\Debug\net5.0\ref\CursoCSharp_3_conversiones.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_conversiones\obj\Debug\net5.0\CursoCSharp_3_conversiones.pdb
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_conversiones\obj\Debug\net5.0\CursoCSharp_3_conversiones.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CursoCSharp_3_operadores": {
+      "commandName": "Project",
+      "commandLineArgs": "Paolo 40 Hola uno arg \"Hola Mundo\""
+    }
+  }
+}

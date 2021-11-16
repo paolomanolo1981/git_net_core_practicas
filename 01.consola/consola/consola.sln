@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_3_operadores", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_3_conversiones", "CursoCSharp_3_conversiones\CursoCSharp_3_conversiones.csproj", "{A8E7AE21-4759-4EFC-BACB-646112ED77F6}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "metodos", "metodos", "{F5FFF0B7-BA57-4F50-84C8-15A32C04AECE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

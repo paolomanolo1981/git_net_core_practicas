@@ -11,41 +11,45 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MIConsolaNetCore", "MIConso
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "variables", "variables", "{A17E5375-1593-4D7B-9380-7FFD660BF807}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "variables", "variables\variables.csproj", "{E0D61B4C-5825-4932-B3DA-BF0D21E9F209}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "variables", "variables\variables.csproj", "{E0D61B4C-5825-4932-B3DA-BF0D21E9F209}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_3_nomenclatura", "CursoCSharp_3_nomenclatura\CursoCSharp_3_nomenclatura.csproj", "{208B58A7-2C10-43BB-8A86-DA935E8CE8D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_3_nomenclatura", "CursoCSharp_3_nomenclatura\CursoCSharp_3_nomenclatura.csproj", "{208B58A7-2C10-43BB-8A86-DA935E8CE8D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_3_constantes", "CursoCSharp_3_constantes\CursoCSharp_3_constantes.csproj", "{9228147D-F681-40E7-999B-5817893D8247}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_3_constantes", "CursoCSharp_3_constantes\CursoCSharp_3_constantes.csproj", "{9228147D-F681-40E7-999B-5817893D8247}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_3_if_else", "CursoCSharp_3_if_else\CursoCSharp_3_if_else.csproj", "{0726BA8C-994D-4B1E-B4E1-DBBBCB7FA6B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_3_if_else", "CursoCSharp_3_if_else\CursoCSharp_3_if_else.csproj", "{0726BA8C-994D-4B1E-B4E1-DBBBCB7FA6B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_3_switch", "CursoCSharp_3_switch\CursoCSharp_3_switch.csproj", "{8E83F3A4-706E-4C74-AFB1-5C78E80B8FAD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_3_switch", "CursoCSharp_3_switch\CursoCSharp_3_switch.csproj", "{8E83F3A4-706E-4C74-AFB1-5C78E80B8FAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_3_do_while", "CursoCSharp_3_do_while\CursoCSharp_3_do_while.csproj", "{D1E540A5-4350-4134-9667-72C3CBEDE0E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_3_do_while", "CursoCSharp_3_do_while\CursoCSharp_3_do_while.csproj", "{D1E540A5-4350-4134-9667-72C3CBEDE0E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_3_foreach", "CursoCSharp_3_foreach\CursoCSharp_3_foreach.csproj", "{9B75798D-71A4-4A5B-9A51-9B2B49203D5F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_3_foreach", "CursoCSharp_3_foreach\CursoCSharp_3_foreach.csproj", "{9B75798D-71A4-4A5B-9A51-9B2B49203D5F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_3_operadores", "CursoCSharp_3_operadores\CursoCSharp_3_operadores.csproj", "{1E91CD37-1C06-4999-95FA-19D89400592F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_3_operadores", "CursoCSharp_3_operadores\CursoCSharp_3_operadores.csproj", "{1E91CD37-1C06-4999-95FA-19D89400592F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_3_conversiones", "CursoCSharp_3_conversiones\CursoCSharp_3_conversiones.csproj", "{A8E7AE21-4759-4EFC-BACB-646112ED77F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_3_conversiones", "CursoCSharp_3_conversiones\CursoCSharp_3_conversiones.csproj", "{A8E7AE21-4759-4EFC-BACB-646112ED77F6}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "metodos", "metodos", "{F5FFF0B7-BA57-4F50-84C8-15A32C04AECE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "seccion_5_metodos", "seccion_5_metodos\seccion_5_metodos.csproj", "{D3966CDF-13DD-4FF8-A383-5AAEA2D102A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "seccion_5_metodos", "seccion_5_metodos\seccion_5_metodos.csproj", "{D3966CDF-13DD-4FF8-A383-5AAEA2D102A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "seccion_5_metodos_parametros_valor_referencia", "seccion_5_metodos_parametros_valor_referencia\seccion_5_metodos_parametros_valor_referencia.csproj", "{61C20BE3-936A-4743-921F-5E1338386FFE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "seccion_5_metodos_parametros_valor_referencia", "seccion_5_metodos_parametros_valor_referencia\seccion_5_metodos_parametros_valor_referencia.csproj", "{61C20BE3-936A-4743-921F-5E1338386FFE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "seccion_5_funciones_locales", "seccion_5_funciones_locales\seccion_5_funciones_locales.csproj", "{054F48BD-74D8-4D56-87B6-3C43ADD8301A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "seccion_5_funciones_locales", "seccion_5_funciones_locales\seccion_5_funciones_locales.csproj", "{054F48BD-74D8-4D56-87B6-3C43ADD8301A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Seccion_6_cadenas", "Seccion_6_cadenas", "{5F5CB78F-34EA-4500-9277-C6302E1A4CC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "instroduccion_cadena", "instroduccion_cadena\instroduccion_cadena.csproj", "{A58AB6E2-6210-4158-A1BA-62E4E5811E80}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "instroduccion_cadena", "instroduccion_cadena\instroduccion_cadena.csproj", "{A58AB6E2-6210-4158-A1BA-62E4E5811E80}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "concatenar_cadenas", "concatenar_cadenas\concatenar_cadenas.csproj", "{05A3BB25-427A-4ACE-8B03-3C22F76DE12E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "concatenar_cadenas", "concatenar_cadenas\concatenar_cadenas.csproj", "{05A3BB25-427A-4ACE-8B03-3C22F76DE12E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "string_builder_", "string_builder_\string_builder_.csproj", "{41BE4C32-91A0-46F9-AA95-12D88E317BD2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "string_builder_", "string_builder_\string_builder_.csproj", "{41BE4C32-91A0-46F9-AA95-12D88E317BD2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "operaciones_cadena", "operaciones_cadena\operaciones_cadena.csproj", "{90F11B29-AF05-41BC-A529-2530A8456C94}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "operaciones_cadena", "operaciones_cadena\operaciones_cadena.csproj", "{90F11B29-AF05-41BC-A529-2530A8456C94}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "seccion_7_colecciones", "seccion_7_colecciones", "{03430358-5969-4AAF-9CEB-CA8DDB86C6B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "intro_colecciones", "intro_colecciones\intro_colecciones.csproj", "{7AF21946-C8A4-4B84-8F18-243BF9FCD36D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -125,6 +129,10 @@ Global
 		{90F11B29-AF05-41BC-A529-2530A8456C94}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90F11B29-AF05-41BC-A529-2530A8456C94}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90F11B29-AF05-41BC-A529-2530A8456C94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AF21946-C8A4-4B84-8F18-243BF9FCD36D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AF21946-C8A4-4B84-8F18-243BF9FCD36D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AF21946-C8A4-4B84-8F18-243BF9FCD36D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AF21946-C8A4-4B84-8F18-243BF9FCD36D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -148,6 +156,7 @@ Global
 		{05A3BB25-427A-4ACE-8B03-3C22F76DE12E} = {5F5CB78F-34EA-4500-9277-C6302E1A4CC7}
 		{41BE4C32-91A0-46F9-AA95-12D88E317BD2} = {5F5CB78F-34EA-4500-9277-C6302E1A4CC7}
 		{90F11B29-AF05-41BC-A529-2530A8456C94} = {5F5CB78F-34EA-4500-9277-C6302E1A4CC7}
+		{7AF21946-C8A4-4B84-8F18-243BF9FCD36D} = {03430358-5969-4AAF-9CEB-CA8DDB86C6B4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F217241F-541D-4D28-A4E8-9FF97213E2DA}

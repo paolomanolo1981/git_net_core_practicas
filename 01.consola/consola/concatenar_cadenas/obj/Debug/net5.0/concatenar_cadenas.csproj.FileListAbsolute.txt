@@ -1,0 +1,15 @@
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\concatenar_cadenas\bin\Debug\net5.0\concatenar_cadenas.exe
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\concatenar_cadenas\bin\Debug\net5.0\concatenar_cadenas.deps.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\concatenar_cadenas\bin\Debug\net5.0\concatenar_cadenas.runtimeconfig.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\concatenar_cadenas\bin\Debug\net5.0\concatenar_cadenas.runtimeconfig.dev.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\concatenar_cadenas\bin\Debug\net5.0\concatenar_cadenas.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\concatenar_cadenas\bin\Debug\net5.0\ref\concatenar_cadenas.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\concatenar_cadenas\bin\Debug\net5.0\concatenar_cadenas.pdb
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\concatenar_cadenas\obj\Debug\net5.0\concatenar_cadenas.GeneratedMSBuildEditorConfig.editorconfig
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\concatenar_cadenas\obj\Debug\net5.0\concatenar_cadenas.AssemblyInfoInputs.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\concatenar_cadenas\obj\Debug\net5.0\concatenar_cadenas.AssemblyInfo.cs
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\concatenar_cadenas\obj\Debug\net5.0\concatenar_cadenas.csproj.CoreCompileInputs.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\concatenar_cadenas\obj\Debug\net5.0\concatenar_cadenas.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\concatenar_cadenas\obj\Debug\net5.0\ref\concatenar_cadenas.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\concatenar_cadenas\obj\Debug\net5.0\concatenar_cadenas.pdb
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\concatenar_cadenas\obj\Debug\net5.0\concatenar_cadenas.genruntimeconfig.cache

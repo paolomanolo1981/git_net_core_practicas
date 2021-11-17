@@ -1,0 +1,16 @@
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\seccion_5_metodos\bin\Debug\net5.0\seccion_5_metodos.exe
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\seccion_5_metodos\bin\Debug\net5.0\seccion_5_metodos.deps.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\seccion_5_metodos\bin\Debug\net5.0\seccion_5_metodos.runtimeconfig.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\seccion_5_metodos\bin\Debug\net5.0\seccion_5_metodos.runtimeconfig.dev.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\seccion_5_metodos\bin\Debug\net5.0\seccion_5_metodos.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\seccion_5_metodos\bin\Debug\net5.0\ref\seccion_5_metodos.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\seccion_5_metodos\bin\Debug\net5.0\seccion_5_metodos.pdb
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\seccion_5_metodos\obj\Debug\net5.0\seccion_5_metodos.csproj.AssemblyReference.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\seccion_5_metodos\obj\Debug\net5.0\seccion_5_metodos.GeneratedMSBuildEditorConfig.editorconfig
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\seccion_5_metodos\obj\Debug\net5.0\seccion_5_metodos.AssemblyInfoInputs.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\seccion_5_metodos\obj\Debug\net5.0\seccion_5_metodos.AssemblyInfo.cs
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\seccion_5_metodos\obj\Debug\net5.0\seccion_5_metodos.csproj.CoreCompileInputs.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\seccion_5_metodos\obj\Debug\net5.0\seccion_5_metodos.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\seccion_5_metodos\obj\Debug\net5.0\ref\seccion_5_metodos.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\seccion_5_metodos\obj\Debug\net5.0\seccion_5_metodos.pdb
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\seccion_5_metodos\obj\Debug\net5.0\seccion_5_metodos.genruntimeconfig.cache

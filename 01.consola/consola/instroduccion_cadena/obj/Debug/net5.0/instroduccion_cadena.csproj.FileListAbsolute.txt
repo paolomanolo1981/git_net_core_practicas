@@ -1,0 +1,15 @@
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\instroduccion_cadena\obj\Debug\net5.0\instroduccion_cadena.GeneratedMSBuildEditorConfig.editorconfig
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\instroduccion_cadena\obj\Debug\net5.0\instroduccion_cadena.AssemblyInfoInputs.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\instroduccion_cadena\obj\Debug\net5.0\instroduccion_cadena.AssemblyInfo.cs
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\instroduccion_cadena\obj\Debug\net5.0\instroduccion_cadena.csproj.CoreCompileInputs.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\instroduccion_cadena\bin\Debug\net5.0\instroduccion_cadena.exe
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\instroduccion_cadena\bin\Debug\net5.0\instroduccion_cadena.deps.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\instroduccion_cadena\bin\Debug\net5.0\instroduccion_cadena.runtimeconfig.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\instroduccion_cadena\bin\Debug\net5.0\instroduccion_cadena.runtimeconfig.dev.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\instroduccion_cadena\bin\Debug\net5.0\instroduccion_cadena.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\instroduccion_cadena\bin\Debug\net5.0\ref\instroduccion_cadena.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\instroduccion_cadena\bin\Debug\net5.0\instroduccion_cadena.pdb
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\instroduccion_cadena\obj\Debug\net5.0\instroduccion_cadena.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\instroduccion_cadena\obj\Debug\net5.0\ref\instroduccion_cadena.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\instroduccion_cadena\obj\Debug\net5.0\instroduccion_cadena.pdb
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\instroduccion_cadena\obj\Debug\net5.0\instroduccion_cadena.genruntimeconfig.cache

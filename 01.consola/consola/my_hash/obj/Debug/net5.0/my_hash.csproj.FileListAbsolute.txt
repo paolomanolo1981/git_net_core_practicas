@@ -1,0 +1,15 @@
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\my_hash\bin\Debug\net5.0\my_hash.exe
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\my_hash\bin\Debug\net5.0\my_hash.deps.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\my_hash\bin\Debug\net5.0\my_hash.runtimeconfig.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\my_hash\bin\Debug\net5.0\my_hash.runtimeconfig.dev.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\my_hash\bin\Debug\net5.0\my_hash.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\my_hash\bin\Debug\net5.0\ref\my_hash.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\my_hash\bin\Debug\net5.0\my_hash.pdb
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\my_hash\obj\Debug\net5.0\my_hash.GeneratedMSBuildEditorConfig.editorconfig
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\my_hash\obj\Debug\net5.0\my_hash.AssemblyInfoInputs.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\my_hash\obj\Debug\net5.0\my_hash.AssemblyInfo.cs
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\my_hash\obj\Debug\net5.0\my_hash.csproj.CoreCompileInputs.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\my_hash\obj\Debug\net5.0\my_hash.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\my_hash\obj\Debug\net5.0\ref\my_hash.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\my_hash\obj\Debug\net5.0\my_hash.pdb
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\my_hash\obj\Debug\net5.0\my_hash.genruntimeconfig.cache

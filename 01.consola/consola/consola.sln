@@ -59,6 +59,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mi_stack", "mi_stack\mi_sta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "colas", "colas\colas.csproj", "{41FA8338-E1D6-4125-A367-677435C9D2C9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "my_hash", "my_hash\my_hash.csproj", "{B04ACE54-80B4-4B54-A6FC-D88998682DDF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -157,6 +159,10 @@ Global
 		{41FA8338-E1D6-4125-A367-677435C9D2C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{41FA8338-E1D6-4125-A367-677435C9D2C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{41FA8338-E1D6-4125-A367-677435C9D2C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B04ACE54-80B4-4B54-A6FC-D88998682DDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B04ACE54-80B4-4B54-A6FC-D88998682DDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B04ACE54-80B4-4B54-A6FC-D88998682DDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B04ACE54-80B4-4B54-A6FC-D88998682DDF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -185,6 +191,7 @@ Global
 		{2C274C01-7FE6-4C40-B611-5CB12234C9AD} = {03430358-5969-4AAF-9CEB-CA8DDB86C6B4}
 		{3A989444-F3BB-4537-B92E-8B0CB9A4DFC8} = {03430358-5969-4AAF-9CEB-CA8DDB86C6B4}
 		{41FA8338-E1D6-4125-A367-677435C9D2C9} = {03430358-5969-4AAF-9CEB-CA8DDB86C6B4}
+		{B04ACE54-80B4-4B54-A6FC-D88998682DDF} = {03430358-5969-4AAF-9CEB-CA8DDB86C6B4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F217241F-541D-4D28-A4E8-9FF97213E2DA}

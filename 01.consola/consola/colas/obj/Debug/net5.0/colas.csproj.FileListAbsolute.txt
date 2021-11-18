@@ -1,0 +1,15 @@
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\colas\bin\Debug\net5.0\colas.exe
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\colas\bin\Debug\net5.0\colas.deps.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\colas\bin\Debug\net5.0\colas.runtimeconfig.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\colas\bin\Debug\net5.0\colas.runtimeconfig.dev.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\colas\bin\Debug\net5.0\colas.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\colas\bin\Debug\net5.0\ref\colas.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\colas\bin\Debug\net5.0\colas.pdb
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\colas\obj\Debug\net5.0\colas.GeneratedMSBuildEditorConfig.editorconfig
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\colas\obj\Debug\net5.0\colas.AssemblyInfoInputs.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\colas\obj\Debug\net5.0\colas.AssemblyInfo.cs
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\colas\obj\Debug\net5.0\colas.csproj.CoreCompileInputs.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\colas\obj\Debug\net5.0\colas.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\colas\obj\Debug\net5.0\ref\colas.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\colas\obj\Debug\net5.0\colas.pdb
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\colas\obj\Debug\net5.0\colas.genruntimeconfig.cache

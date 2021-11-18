@@ -1,45 +1,46 @@
 {
   "version": 3,
   "targets": {
-    ".NETFramework,Version=v5.0": {},
-    ".NETFramework,Version=v5.0/win7-x86": {}
+    "net5.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETFramework,Version=v5.0": []
+    "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\epecho\\.nuget\\packages\\": {},
-    "C:\\ProgramData\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Paolo\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\practicas\\git_net_core_practicas\\01.consola\\consola\\CursoCSharp_3_constantes\\CursoCSharp_3_constantes.csproj",
+      "projectUniqueName": "D:\\practicas\\net_core\\git_net_core_practicas\\01.consola\\consola\\CursoCSharp_3_constantes\\CursoCSharp_3_constantes.csproj",
       "projectName": "CursoCSharp_3_constantes",
-      "projectPath": "D:\\practicas\\git_net_core_practicas\\01.consola\\consola\\CursoCSharp_3_constantes\\CursoCSharp_3_constantes.csproj",
-      "packagesPath": "C:\\Users\\epecho\\.nuget\\packages\\",
-      "outputPath": "D:\\practicas\\git_net_core_practicas\\01.consola\\consola\\CursoCSharp_3_constantes\\obj\\",
+      "projectPath": "D:\\practicas\\net_core\\git_net_core_practicas\\01.consola\\consola\\CursoCSharp_3_constantes\\CursoCSharp_3_constantes.csproj",
+      "packagesPath": "C:\\Users\\Paolo\\.nuget\\packages\\",
+      "outputPath": "D:\\practicas\\net_core\\git_net_core_practicas\\01.consola\\consola\\CursoCSharp_3_constantes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\ProgramData\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\epecho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Paolo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net50"
+        "net5.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net50": {
+        "net5.0": {
+          "targetAlias": "net5.0",
           "projectReferences": {}
         }
       },
@@ -50,11 +51,24 @@
       }
     },
     "frameworks": {
-      "net50": {}
-    },
-    "runtimes": {
-      "win7-x86": {
-        "#import": []
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

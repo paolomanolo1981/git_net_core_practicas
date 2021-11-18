@@ -1,0 +1,15 @@
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\MiICompare\bin\Debug\net5.0\MiICompare.exe
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\MiICompare\bin\Debug\net5.0\MiICompare.deps.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\MiICompare\bin\Debug\net5.0\MiICompare.runtimeconfig.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\MiICompare\bin\Debug\net5.0\MiICompare.runtimeconfig.dev.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\MiICompare\bin\Debug\net5.0\MiICompare.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\MiICompare\bin\Debug\net5.0\ref\MiICompare.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\MiICompare\bin\Debug\net5.0\MiICompare.pdb
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\MiICompare\obj\Debug\net5.0\MiICompare.GeneratedMSBuildEditorConfig.editorconfig
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\MiICompare\obj\Debug\net5.0\MiICompare.AssemblyInfoInputs.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\MiICompare\obj\Debug\net5.0\MiICompare.AssemblyInfo.cs
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\MiICompare\obj\Debug\net5.0\MiICompare.csproj.CoreCompileInputs.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\MiICompare\obj\Debug\net5.0\MiICompare.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\MiICompare\obj\Debug\net5.0\ref\MiICompare.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\MiICompare\obj\Debug\net5.0\MiICompare.pdb
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\MiICompare\obj\Debug\net5.0\MiICompare.genruntimeconfig.cache

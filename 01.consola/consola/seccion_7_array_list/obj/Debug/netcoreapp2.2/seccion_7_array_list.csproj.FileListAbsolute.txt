@@ -1,0 +1,13 @@
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\seccion_7_array_list\bin\Debug\netcoreapp2.2\seccion_7_array_list.deps.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\seccion_7_array_list\bin\Debug\netcoreapp2.2\seccion_7_array_list.runtimeconfig.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\seccion_7_array_list\bin\Debug\netcoreapp2.2\seccion_7_array_list.runtimeconfig.dev.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\seccion_7_array_list\bin\Debug\netcoreapp2.2\seccion_7_array_list.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\seccion_7_array_list\bin\Debug\netcoreapp2.2\seccion_7_array_list.pdb
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\seccion_7_array_list\obj\Debug\netcoreapp2.2\seccion_7_array_list.csproj.AssemblyReference.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\seccion_7_array_list\obj\Debug\netcoreapp2.2\seccion_7_array_list.GeneratedMSBuildEditorConfig.editorconfig
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\seccion_7_array_list\obj\Debug\netcoreapp2.2\seccion_7_array_list.AssemblyInfoInputs.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\seccion_7_array_list\obj\Debug\netcoreapp2.2\seccion_7_array_list.AssemblyInfo.cs
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\seccion_7_array_list\obj\Debug\netcoreapp2.2\seccion_7_array_list.csproj.CoreCompileInputs.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\seccion_7_array_list\obj\Debug\netcoreapp2.2\seccion_7_array_list.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\seccion_7_array_list\obj\Debug\netcoreapp2.2\seccion_7_array_list.pdb
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\seccion_7_array_list\obj\Debug\netcoreapp2.2\seccion_7_array_list.genruntimeconfig.cache

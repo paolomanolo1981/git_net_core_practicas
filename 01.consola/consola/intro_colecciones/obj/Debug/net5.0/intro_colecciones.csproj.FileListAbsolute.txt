@@ -1,0 +1,15 @@
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\intro_colecciones\bin\Debug\net5.0\intro_colecciones.exe
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\intro_colecciones\bin\Debug\net5.0\intro_colecciones.deps.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\intro_colecciones\bin\Debug\net5.0\intro_colecciones.runtimeconfig.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\intro_colecciones\bin\Debug\net5.0\intro_colecciones.runtimeconfig.dev.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\intro_colecciones\bin\Debug\net5.0\intro_colecciones.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\intro_colecciones\bin\Debug\net5.0\ref\intro_colecciones.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\intro_colecciones\bin\Debug\net5.0\intro_colecciones.pdb
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\intro_colecciones\obj\Debug\net5.0\intro_colecciones.GeneratedMSBuildEditorConfig.editorconfig
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\intro_colecciones\obj\Debug\net5.0\intro_colecciones.AssemblyInfoInputs.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\intro_colecciones\obj\Debug\net5.0\intro_colecciones.AssemblyInfo.cs
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\intro_colecciones\obj\Debug\net5.0\intro_colecciones.csproj.CoreCompileInputs.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\intro_colecciones\obj\Debug\net5.0\intro_colecciones.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\intro_colecciones\obj\Debug\net5.0\ref\intro_colecciones.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\intro_colecciones\obj\Debug\net5.0\intro_colecciones.pdb
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\intro_colecciones\obj\Debug\net5.0\intro_colecciones.genruntimeconfig.cache

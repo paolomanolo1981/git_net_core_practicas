@@ -5,6 +5,7 @@ D:\practicas\net_core\git_net_core_practicas\01.consola\consola\seccion_5_funcio
 D:\practicas\net_core\git_net_core_practicas\01.consola\consola\seccion_5_funciones_locales\bin\Debug\net5.0\seccion_5_funciones_locales.dll
 D:\practicas\net_core\git_net_core_practicas\01.consola\consola\seccion_5_funciones_locales\bin\Debug\net5.0\ref\seccion_5_funciones_locales.dll
 D:\practicas\net_core\git_net_core_practicas\01.consola\consola\seccion_5_funciones_locales\bin\Debug\net5.0\seccion_5_funciones_locales.pdb
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\seccion_5_funciones_locales\obj\Debug\net5.0\seccion_5_funciones_locales.csproj.AssemblyReference.cache
 D:\practicas\net_core\git_net_core_practicas\01.consola\consola\seccion_5_funciones_locales\obj\Debug\net5.0\seccion_5_funciones_locales.GeneratedMSBuildEditorConfig.editorconfig
 D:\practicas\net_core\git_net_core_practicas\01.consola\consola\seccion_5_funciones_locales\obj\Debug\net5.0\seccion_5_funciones_locales.AssemblyInfoInputs.cache
 D:\practicas\net_core\git_net_core_practicas\01.consola\consola\seccion_5_funciones_locales\obj\Debug\net5.0\seccion_5_funciones_locales.AssemblyInfo.cs

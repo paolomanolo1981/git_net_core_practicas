@@ -5,6 +5,7 @@ D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_do
 D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_do_while\bin\Debug\net5.0\CursoCSharp_3_do_while.dll
 D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_do_while\bin\Debug\net5.0\ref\CursoCSharp_3_do_while.dll
 D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_do_while\bin\Debug\net5.0\CursoCSharp_3_do_while.pdb
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_do_while\obj\Debug\net5.0\CursoCSharp_3_do_while.csproj.AssemblyReference.cache
 D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_do_while\obj\Debug\net5.0\CursoCSharp_3_do_while.GeneratedMSBuildEditorConfig.editorconfig
 D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_do_while\obj\Debug\net5.0\CursoCSharp_3_do_while.AssemblyInfoInputs.cache
 D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_do_while\obj\Debug\net5.0\CursoCSharp_3_do_while.AssemblyInfo.cs

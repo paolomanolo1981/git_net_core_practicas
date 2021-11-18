@@ -5,6 +5,7 @@ D:\practicas\net_core\git_net_core_practicas\01.consola\consola\operaciones_cade
 D:\practicas\net_core\git_net_core_practicas\01.consola\consola\operaciones_cadena\bin\Debug\net5.0\operaciones_cadena.dll
 D:\practicas\net_core\git_net_core_practicas\01.consola\consola\operaciones_cadena\bin\Debug\net5.0\ref\operaciones_cadena.dll
 D:\practicas\net_core\git_net_core_practicas\01.consola\consola\operaciones_cadena\bin\Debug\net5.0\operaciones_cadena.pdb
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\operaciones_cadena\obj\Debug\net5.0\operaciones_cadena.csproj.AssemblyReference.cache
 D:\practicas\net_core\git_net_core_practicas\01.consola\consola\operaciones_cadena\obj\Debug\net5.0\operaciones_cadena.GeneratedMSBuildEditorConfig.editorconfig
 D:\practicas\net_core\git_net_core_practicas\01.consola\consola\operaciones_cadena\obj\Debug\net5.0\operaciones_cadena.AssemblyInfoInputs.cache
 D:\practicas\net_core\git_net_core_practicas\01.consola\consola\operaciones_cadena\obj\Debug\net5.0\operaciones_cadena.AssemblyInfo.cs

@@ -5,7 +5,6 @@ D:\practicas\net_core\git_net_core_practicas\01.consola\consola\string_builder_\
 D:\practicas\net_core\git_net_core_practicas\01.consola\consola\string_builder_\bin\Debug\net5.0\string_builder_.dll
 D:\practicas\net_core\git_net_core_practicas\01.consola\consola\string_builder_\bin\Debug\net5.0\ref\string_builder_.dll
 D:\practicas\net_core\git_net_core_practicas\01.consola\consola\string_builder_\bin\Debug\net5.0\string_builder_.pdb
-D:\practicas\net_core\git_net_core_practicas\01.consola\consola\string_builder_\obj\Debug\net5.0\string_builder_.csproj.AssemblyReference.cache
 D:\practicas\net_core\git_net_core_practicas\01.consola\consola\string_builder_\obj\Debug\net5.0\string_builder_.GeneratedMSBuildEditorConfig.editorconfig
 D:\practicas\net_core\git_net_core_practicas\01.consola\consola\string_builder_\obj\Debug\net5.0\string_builder_.AssemblyInfoInputs.cache
 D:\practicas\net_core\git_net_core_practicas\01.consola\consola\string_builder_\obj\Debug\net5.0\string_builder_.AssemblyInfo.cs

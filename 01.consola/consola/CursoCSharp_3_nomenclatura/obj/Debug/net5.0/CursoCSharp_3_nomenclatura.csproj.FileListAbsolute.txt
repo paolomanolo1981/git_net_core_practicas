@@ -1,0 +1,16 @@
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_nomenclatura\bin\Debug\net5.0\CursoCSharp_3_nomenclatura.exe
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_nomenclatura\bin\Debug\net5.0\CursoCSharp_3_nomenclatura.deps.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_nomenclatura\bin\Debug\net5.0\CursoCSharp_3_nomenclatura.runtimeconfig.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_nomenclatura\bin\Debug\net5.0\CursoCSharp_3_nomenclatura.runtimeconfig.dev.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_nomenclatura\bin\Debug\net5.0\CursoCSharp_3_nomenclatura.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_nomenclatura\bin\Debug\net5.0\ref\CursoCSharp_3_nomenclatura.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_nomenclatura\bin\Debug\net5.0\CursoCSharp_3_nomenclatura.pdb
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_nomenclatura\obj\Debug\net5.0\CursoCSharp_3_nomenclatura.csproj.AssemblyReference.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_nomenclatura\obj\Debug\net5.0\CursoCSharp_3_nomenclatura.GeneratedMSBuildEditorConfig.editorconfig
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_nomenclatura\obj\Debug\net5.0\CursoCSharp_3_nomenclatura.AssemblyInfoInputs.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_nomenclatura\obj\Debug\net5.0\CursoCSharp_3_nomenclatura.AssemblyInfo.cs
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_nomenclatura\obj\Debug\net5.0\CursoCSharp_3_nomenclatura.csproj.CoreCompileInputs.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_nomenclatura\obj\Debug\net5.0\CursoCSharp_3_nomenclatura.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_nomenclatura\obj\Debug\net5.0\ref\CursoCSharp_3_nomenclatura.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_nomenclatura\obj\Debug\net5.0\CursoCSharp_3_nomenclatura.pdb
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_nomenclatura\obj\Debug\net5.0\CursoCSharp_3_nomenclatura.genruntimeconfig.cache

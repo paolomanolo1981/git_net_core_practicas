@@ -5,6 +5,7 @@ D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_co
 D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_constantes\bin\Debug\net5.0\CursoCSharp_3_constantes.dll
 D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_constantes\bin\Debug\net5.0\ref\CursoCSharp_3_constantes.dll
 D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_constantes\bin\Debug\net5.0\CursoCSharp_3_constantes.pdb
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_constantes\obj\Debug\net5.0\CursoCSharp_3_constantes.csproj.AssemblyReference.cache
 D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_constantes\obj\Debug\net5.0\CursoCSharp_3_constantes.GeneratedMSBuildEditorConfig.editorconfig
 D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_constantes\obj\Debug\net5.0\CursoCSharp_3_constantes.AssemblyInfoInputs.cache
 D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_constantes\obj\Debug\net5.0\CursoCSharp_3_constantes.AssemblyInfo.cs

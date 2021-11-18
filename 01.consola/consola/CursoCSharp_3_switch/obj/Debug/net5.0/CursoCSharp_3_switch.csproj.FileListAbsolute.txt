@@ -5,6 +5,7 @@ D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_sw
 D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_switch\bin\Debug\net5.0\CursoCSharp_3_switch.dll
 D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_switch\bin\Debug\net5.0\ref\CursoCSharp_3_switch.dll
 D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_switch\bin\Debug\net5.0\CursoCSharp_3_switch.pdb
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_switch\obj\Debug\net5.0\CursoCSharp_3_switch.csproj.AssemblyReference.cache
 D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_switch\obj\Debug\net5.0\CursoCSharp_3_switch.GeneratedMSBuildEditorConfig.editorconfig
 D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_switch\obj\Debug\net5.0\CursoCSharp_3_switch.AssemblyInfoInputs.cache
 D:\practicas\net_core\git_net_core_practicas\01.consola\consola\CursoCSharp_3_switch\obj\Debug\net5.0\CursoCSharp_3_switch.AssemblyInfo.cs

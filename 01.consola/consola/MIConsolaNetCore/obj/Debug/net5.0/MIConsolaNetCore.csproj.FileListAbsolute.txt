@@ -1,0 +1,16 @@
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\MIConsolaNetCore\bin\Debug\net5.0\MIConsolaNetCore.exe
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\MIConsolaNetCore\bin\Debug\net5.0\MIConsolaNetCore.deps.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\MIConsolaNetCore\bin\Debug\net5.0\MIConsolaNetCore.runtimeconfig.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\MIConsolaNetCore\bin\Debug\net5.0\MIConsolaNetCore.runtimeconfig.dev.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\MIConsolaNetCore\bin\Debug\net5.0\MIConsolaNetCore.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\MIConsolaNetCore\bin\Debug\net5.0\ref\MIConsolaNetCore.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\MIConsolaNetCore\bin\Debug\net5.0\MIConsolaNetCore.pdb
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\MIConsolaNetCore\obj\Debug\net5.0\MIConsolaNetCore.csproj.AssemblyReference.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\MIConsolaNetCore\obj\Debug\net5.0\MIConsolaNetCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\MIConsolaNetCore\obj\Debug\net5.0\MIConsolaNetCore.AssemblyInfoInputs.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\MIConsolaNetCore\obj\Debug\net5.0\MIConsolaNetCore.AssemblyInfo.cs
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\MIConsolaNetCore\obj\Debug\net5.0\MIConsolaNetCore.csproj.CoreCompileInputs.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\MIConsolaNetCore\obj\Debug\net5.0\MIConsolaNetCore.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\MIConsolaNetCore\obj\Debug\net5.0\ref\MIConsolaNetCore.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\MIConsolaNetCore\obj\Debug\net5.0\MIConsolaNetCore.pdb
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\MIConsolaNetCore\obj\Debug\net5.0\MIConsolaNetCore.genruntimeconfig.cache

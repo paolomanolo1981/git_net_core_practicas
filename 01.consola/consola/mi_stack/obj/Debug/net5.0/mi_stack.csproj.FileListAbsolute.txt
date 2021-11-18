@@ -1,0 +1,15 @@
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\mi_stack\bin\Debug\net5.0\mi_stack.exe
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\mi_stack\bin\Debug\net5.0\mi_stack.deps.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\mi_stack\bin\Debug\net5.0\mi_stack.runtimeconfig.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\mi_stack\bin\Debug\net5.0\mi_stack.runtimeconfig.dev.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\mi_stack\bin\Debug\net5.0\mi_stack.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\mi_stack\bin\Debug\net5.0\ref\mi_stack.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\mi_stack\bin\Debug\net5.0\mi_stack.pdb
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\mi_stack\obj\Debug\net5.0\mi_stack.GeneratedMSBuildEditorConfig.editorconfig
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\mi_stack\obj\Debug\net5.0\mi_stack.AssemblyInfoInputs.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\mi_stack\obj\Debug\net5.0\mi_stack.AssemblyInfo.cs
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\mi_stack\obj\Debug\net5.0\mi_stack.csproj.CoreCompileInputs.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\mi_stack\obj\Debug\net5.0\mi_stack.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\mi_stack\obj\Debug\net5.0\ref\mi_stack.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\mi_stack\obj\Debug\net5.0\mi_stack.pdb
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\mi_stack\obj\Debug\net5.0\mi_stack.genruntimeconfig.cache

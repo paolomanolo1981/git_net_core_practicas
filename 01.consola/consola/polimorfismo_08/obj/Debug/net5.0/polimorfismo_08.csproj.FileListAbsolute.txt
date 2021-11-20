@@ -1,0 +1,15 @@
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\polimorfismo_08\bin\Debug\net5.0\polimorfismo_08.exe
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\polimorfismo_08\bin\Debug\net5.0\polimorfismo_08.deps.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\polimorfismo_08\bin\Debug\net5.0\polimorfismo_08.runtimeconfig.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\polimorfismo_08\bin\Debug\net5.0\polimorfismo_08.runtimeconfig.dev.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\polimorfismo_08\bin\Debug\net5.0\polimorfismo_08.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\polimorfismo_08\bin\Debug\net5.0\ref\polimorfismo_08.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\polimorfismo_08\bin\Debug\net5.0\polimorfismo_08.pdb
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\polimorfismo_08\obj\Debug\net5.0\polimorfismo_08.GeneratedMSBuildEditorConfig.editorconfig
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\polimorfismo_08\obj\Debug\net5.0\polimorfismo_08.AssemblyInfoInputs.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\polimorfismo_08\obj\Debug\net5.0\polimorfismo_08.AssemblyInfo.cs
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\polimorfismo_08\obj\Debug\net5.0\polimorfismo_08.csproj.CoreCompileInputs.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\polimorfismo_08\obj\Debug\net5.0\polimorfismo_08.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\polimorfismo_08\obj\Debug\net5.0\ref\polimorfismo_08.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\polimorfismo_08\obj\Debug\net5.0\polimorfismo_08.pdb
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\polimorfismo_08\obj\Debug\net5.0\polimorfismo_08.genruntimeconfig.cache

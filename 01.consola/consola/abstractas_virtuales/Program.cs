@@ -6,7 +6,12 @@ namespace abstractas_virtuales
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            ClaseDerivada o = new ClaseDerivada();
+
+            int valor = o.Restar(67 , 1);
+            Console.WriteLine(valor);
+            Console.ReadLine();
+
         }
     }
 }

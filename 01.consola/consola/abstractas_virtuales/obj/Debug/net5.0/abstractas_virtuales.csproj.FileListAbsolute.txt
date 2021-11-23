@@ -13,3 +13,4 @@ D:\practicas\net_core\git_net_core_practicas\01.consola\consola\abstractas_virtu
 D:\practicas\net_core\git_net_core_practicas\01.consola\consola\abstractas_virtuales\obj\Debug\net5.0\ref\abstractas_virtuales.dll
 D:\practicas\net_core\git_net_core_practicas\01.consola\consola\abstractas_virtuales\obj\Debug\net5.0\abstractas_virtuales.pdb
 D:\practicas\net_core\git_net_core_practicas\01.consola\consola\abstractas_virtuales\obj\Debug\net5.0\abstractas_virtuales.genruntimeconfig.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\abstractas_virtuales\obj\Debug\net5.0\abstractas_virtuales.csproj.AssemblyReference.cache

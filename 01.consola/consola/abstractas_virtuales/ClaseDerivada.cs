@@ -10,7 +10,7 @@ namespace abstractas_virtuales
     {
         public override int Restar(int numero1, int numero2)
         {
-            throw new NotImplementedException();
+            return numero1 - numero2;
         }
     }
 }

@@ -13,3 +13,4 @@ D:\practicas\net_core\git_net_core_practicas\01.consola\consola\polimorfismo_08\
 D:\practicas\net_core\git_net_core_practicas\01.consola\consola\polimorfismo_08\obj\Debug\net5.0\ref\polimorfismo_08.dll
 D:\practicas\net_core\git_net_core_practicas\01.consola\consola\polimorfismo_08\obj\Debug\net5.0\polimorfismo_08.pdb
 D:\practicas\net_core\git_net_core_practicas\01.consola\consola\polimorfismo_08\obj\Debug\net5.0\polimorfismo_08.genruntimeconfig.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\polimorfismo_08\obj\Debug\net5.0\polimorfismo_08.csproj.AssemblyReference.cache

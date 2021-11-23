@@ -13,3 +13,4 @@ D:\practicas\net_core\git_net_core_practicas\01.consola\consola\seccion_7_array_
 D:\practicas\net_core\git_net_core_practicas\01.consola\consola\seccion_7_array_list\obj\Debug\net5.0\ref\seccion_7_array_list.dll
 D:\practicas\net_core\git_net_core_practicas\01.consola\consola\seccion_7_array_list\obj\Debug\net5.0\seccion_7_array_list.pdb
 D:\practicas\net_core\git_net_core_practicas\01.consola\consola\seccion_7_array_list\obj\Debug\net5.0\seccion_7_array_list.genruntimeconfig.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\seccion_7_array_list\obj\Debug\net5.0\seccion_7_array_list.csproj.AssemblyReference.cache

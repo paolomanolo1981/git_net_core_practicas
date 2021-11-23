@@ -1,0 +1,15 @@
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\metodos\bin\Debug\net5.0\metodos.exe
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\metodos\bin\Debug\net5.0\metodos.deps.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\metodos\bin\Debug\net5.0\metodos.runtimeconfig.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\metodos\bin\Debug\net5.0\metodos.runtimeconfig.dev.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\metodos\bin\Debug\net5.0\metodos.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\metodos\bin\Debug\net5.0\ref\metodos.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\metodos\bin\Debug\net5.0\metodos.pdb
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\metodos\obj\Debug\net5.0\metodos.GeneratedMSBuildEditorConfig.editorconfig
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\metodos\obj\Debug\net5.0\metodos.AssemblyInfoInputs.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\metodos\obj\Debug\net5.0\metodos.AssemblyInfo.cs
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\metodos\obj\Debug\net5.0\metodos.csproj.CoreCompileInputs.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\metodos\obj\Debug\net5.0\metodos.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\metodos\obj\Debug\net5.0\ref\metodos.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\metodos\obj\Debug\net5.0\metodos.pdb
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\metodos\obj\Debug\net5.0\metodos.genruntimeconfig.cache

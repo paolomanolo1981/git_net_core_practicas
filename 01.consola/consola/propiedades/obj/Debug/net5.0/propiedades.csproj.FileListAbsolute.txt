@@ -1,0 +1,15 @@
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\propiedades\obj\Debug\net5.0\propiedades.GeneratedMSBuildEditorConfig.editorconfig
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\propiedades\obj\Debug\net5.0\propiedades.AssemblyInfoInputs.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\propiedades\obj\Debug\net5.0\propiedades.AssemblyInfo.cs
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\propiedades\obj\Debug\net5.0\propiedades.csproj.CoreCompileInputs.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\propiedades\bin\Debug\net5.0\propiedades.exe
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\propiedades\bin\Debug\net5.0\propiedades.deps.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\propiedades\bin\Debug\net5.0\propiedades.runtimeconfig.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\propiedades\bin\Debug\net5.0\propiedades.runtimeconfig.dev.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\propiedades\bin\Debug\net5.0\propiedades.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\propiedades\bin\Debug\net5.0\ref\propiedades.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\propiedades\bin\Debug\net5.0\propiedades.pdb
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\propiedades\obj\Debug\net5.0\propiedades.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\propiedades\obj\Debug\net5.0\ref\propiedades.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\propiedades\obj\Debug\net5.0\propiedades.pdb
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\propiedades\obj\Debug\net5.0\propiedades.genruntimeconfig.cache

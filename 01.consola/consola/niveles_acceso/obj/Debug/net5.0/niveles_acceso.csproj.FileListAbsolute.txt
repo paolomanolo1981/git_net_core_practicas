@@ -1,0 +1,15 @@
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\niveles_acceso\obj\Debug\net5.0\niveles_acceso.GeneratedMSBuildEditorConfig.editorconfig
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\niveles_acceso\obj\Debug\net5.0\niveles_acceso.AssemblyInfoInputs.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\niveles_acceso\obj\Debug\net5.0\niveles_acceso.AssemblyInfo.cs
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\niveles_acceso\obj\Debug\net5.0\niveles_acceso.csproj.CoreCompileInputs.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\niveles_acceso\bin\Debug\net5.0\niveles_acceso.exe
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\niveles_acceso\bin\Debug\net5.0\niveles_acceso.deps.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\niveles_acceso\bin\Debug\net5.0\niveles_acceso.runtimeconfig.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\niveles_acceso\bin\Debug\net5.0\niveles_acceso.runtimeconfig.dev.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\niveles_acceso\bin\Debug\net5.0\niveles_acceso.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\niveles_acceso\bin\Debug\net5.0\ref\niveles_acceso.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\niveles_acceso\bin\Debug\net5.0\niveles_acceso.pdb
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\niveles_acceso\obj\Debug\net5.0\niveles_acceso.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\niveles_acceso\obj\Debug\net5.0\ref\niveles_acceso.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\niveles_acceso\obj\Debug\net5.0\niveles_acceso.pdb
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\niveles_acceso\obj\Debug\net5.0\niveles_acceso.genruntimeconfig.cache

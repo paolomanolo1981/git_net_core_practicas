@@ -1,0 +1,15 @@
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\abstractas_virtuales\obj\Debug\net5.0\abstractas_virtuales.GeneratedMSBuildEditorConfig.editorconfig
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\abstractas_virtuales\obj\Debug\net5.0\abstractas_virtuales.AssemblyInfoInputs.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\abstractas_virtuales\obj\Debug\net5.0\abstractas_virtuales.AssemblyInfo.cs
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\abstractas_virtuales\obj\Debug\net5.0\abstractas_virtuales.csproj.CoreCompileInputs.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\abstractas_virtuales\bin\Debug\net5.0\abstractas_virtuales.exe
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\abstractas_virtuales\bin\Debug\net5.0\abstractas_virtuales.deps.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\abstractas_virtuales\bin\Debug\net5.0\abstractas_virtuales.runtimeconfig.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\abstractas_virtuales\bin\Debug\net5.0\abstractas_virtuales.runtimeconfig.dev.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\abstractas_virtuales\bin\Debug\net5.0\abstractas_virtuales.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\abstractas_virtuales\bin\Debug\net5.0\ref\abstractas_virtuales.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\abstractas_virtuales\bin\Debug\net5.0\abstractas_virtuales.pdb
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\abstractas_virtuales\obj\Debug\net5.0\abstractas_virtuales.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\abstractas_virtuales\obj\Debug\net5.0\ref\abstractas_virtuales.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\abstractas_virtuales\obj\Debug\net5.0\abstractas_virtuales.pdb
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\abstractas_virtuales\obj\Debug\net5.0\abstractas_virtuales.genruntimeconfig.cache

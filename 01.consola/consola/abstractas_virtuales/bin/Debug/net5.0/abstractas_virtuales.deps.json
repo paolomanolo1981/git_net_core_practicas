@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "abstractas_virtuales/1.0.0": {
+        "runtime": {
+          "abstractas_virtuales.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "abstractas_virtuales/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

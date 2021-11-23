@@ -31,7 +31,6 @@ D:\practicas\net_core\git_net_core_practicas\01.consola\consola\consola\obj\Debu
 D:\practicas\net_core\git_net_core_practicas\01.consola\consola\consola\obj\Debug\net5.0\consola.AssemblyInfoInputs.cache
 D:\practicas\net_core\git_net_core_practicas\01.consola\consola\consola\obj\Debug\net5.0\consola.AssemblyInfo.cs
 D:\practicas\net_core\git_net_core_practicas\01.consola\consola\consola\obj\Debug\net5.0\consola.csproj.CoreCompileInputs.cache
-D:\practicas\net_core\git_net_core_practicas\01.consola\consola\consola\obj\Debug\net5.0\consola.csproj.CopyComplete
 D:\practicas\net_core\git_net_core_practicas\01.consola\consola\consola\obj\Debug\net5.0\consola.dll
 D:\practicas\net_core\git_net_core_practicas\01.consola\consola\consola\obj\Debug\net5.0\ref\consola.dll
 D:\practicas\net_core\git_net_core_practicas\01.consola\consola\consola\obj\Debug\net5.0\consola.pdb

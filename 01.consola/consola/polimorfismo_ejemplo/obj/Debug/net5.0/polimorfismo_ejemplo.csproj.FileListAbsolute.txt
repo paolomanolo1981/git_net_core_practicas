@@ -1,0 +1,15 @@
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\polimorfismo_ejemplo\bin\Debug\net5.0\polimorfismo_ejemplo.exe
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\polimorfismo_ejemplo\bin\Debug\net5.0\polimorfismo_ejemplo.deps.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\polimorfismo_ejemplo\bin\Debug\net5.0\polimorfismo_ejemplo.runtimeconfig.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\polimorfismo_ejemplo\bin\Debug\net5.0\polimorfismo_ejemplo.runtimeconfig.dev.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\polimorfismo_ejemplo\bin\Debug\net5.0\polimorfismo_ejemplo.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\polimorfismo_ejemplo\bin\Debug\net5.0\ref\polimorfismo_ejemplo.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\polimorfismo_ejemplo\bin\Debug\net5.0\polimorfismo_ejemplo.pdb
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\polimorfismo_ejemplo\obj\Debug\net5.0\polimorfismo_ejemplo.GeneratedMSBuildEditorConfig.editorconfig
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\polimorfismo_ejemplo\obj\Debug\net5.0\polimorfismo_ejemplo.AssemblyInfoInputs.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\polimorfismo_ejemplo\obj\Debug\net5.0\polimorfismo_ejemplo.AssemblyInfo.cs
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\polimorfismo_ejemplo\obj\Debug\net5.0\polimorfismo_ejemplo.csproj.CoreCompileInputs.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\polimorfismo_ejemplo\obj\Debug\net5.0\polimorfismo_ejemplo.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\polimorfismo_ejemplo\obj\Debug\net5.0\ref\polimorfismo_ejemplo.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\polimorfismo_ejemplo\obj\Debug\net5.0\polimorfismo_ejemplo.pdb
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\polimorfismo_ejemplo\obj\Debug\net5.0\polimorfismo_ejemplo.genruntimeconfig.cache

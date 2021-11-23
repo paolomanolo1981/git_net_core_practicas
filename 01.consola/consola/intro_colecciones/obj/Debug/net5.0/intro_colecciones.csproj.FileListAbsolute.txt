@@ -13,3 +13,4 @@ D:\practicas\net_core\git_net_core_practicas\01.consola\consola\intro_coleccione
 D:\practicas\net_core\git_net_core_practicas\01.consola\consola\intro_colecciones\obj\Debug\net5.0\ref\intro_colecciones.dll
 D:\practicas\net_core\git_net_core_practicas\01.consola\consola\intro_colecciones\obj\Debug\net5.0\intro_colecciones.pdb
 D:\practicas\net_core\git_net_core_practicas\01.consola\consola\intro_colecciones\obj\Debug\net5.0\intro_colecciones.genruntimeconfig.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\intro_colecciones\obj\Debug\net5.0\intro_colecciones.csproj.AssemblyReference.cache

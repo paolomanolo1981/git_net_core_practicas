@@ -1,0 +1,16 @@
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\metodos_extension\obj\Debug\net5.0\metodos_extension.GeneratedMSBuildEditorConfig.editorconfig
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\metodos_extension\obj\Debug\net5.0\metodos_extension.AssemblyInfoInputs.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\metodos_extension\obj\Debug\net5.0\metodos_extension.AssemblyInfo.cs
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\metodos_extension\obj\Debug\net5.0\metodos_extension.csproj.CoreCompileInputs.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\metodos_extension\bin\Debug\net5.0\metodos_extension.exe
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\metodos_extension\bin\Debug\net5.0\metodos_extension.deps.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\metodos_extension\bin\Debug\net5.0\metodos_extension.runtimeconfig.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\metodos_extension\bin\Debug\net5.0\metodos_extension.runtimeconfig.dev.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\metodos_extension\bin\Debug\net5.0\metodos_extension.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\metodos_extension\bin\Debug\net5.0\ref\metodos_extension.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\metodos_extension\bin\Debug\net5.0\metodos_extension.pdb
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\metodos_extension\obj\Debug\net5.0\metodos_extension.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\metodos_extension\obj\Debug\net5.0\ref\metodos_extension.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\metodos_extension\obj\Debug\net5.0\metodos_extension.pdb
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\metodos_extension\obj\Debug\net5.0\metodos_extension.genruntimeconfig.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\metodos_extension\obj\Debug\net5.0\metodos_extension.csproj.AssemblyReference.cache

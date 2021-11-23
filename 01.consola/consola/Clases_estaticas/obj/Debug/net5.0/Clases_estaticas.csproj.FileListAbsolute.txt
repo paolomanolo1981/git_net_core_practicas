@@ -1,0 +1,15 @@
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\Clases_estaticas\bin\Debug\net5.0\Clases_estaticas.exe
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\Clases_estaticas\bin\Debug\net5.0\Clases_estaticas.deps.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\Clases_estaticas\bin\Debug\net5.0\Clases_estaticas.runtimeconfig.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\Clases_estaticas\bin\Debug\net5.0\Clases_estaticas.runtimeconfig.dev.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\Clases_estaticas\bin\Debug\net5.0\Clases_estaticas.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\Clases_estaticas\bin\Debug\net5.0\ref\Clases_estaticas.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\Clases_estaticas\bin\Debug\net5.0\Clases_estaticas.pdb
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\Clases_estaticas\obj\Debug\net5.0\Clases_estaticas.GeneratedMSBuildEditorConfig.editorconfig
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\Clases_estaticas\obj\Debug\net5.0\Clases_estaticas.AssemblyInfoInputs.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\Clases_estaticas\obj\Debug\net5.0\Clases_estaticas.AssemblyInfo.cs
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\Clases_estaticas\obj\Debug\net5.0\Clases_estaticas.csproj.CoreCompileInputs.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\Clases_estaticas\obj\Debug\net5.0\Clases_estaticas.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\Clases_estaticas\obj\Debug\net5.0\ref\Clases_estaticas.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\Clases_estaticas\obj\Debug\net5.0\Clases_estaticas.pdb
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\Clases_estaticas\obj\Debug\net5.0\Clases_estaticas.genruntimeconfig.cache

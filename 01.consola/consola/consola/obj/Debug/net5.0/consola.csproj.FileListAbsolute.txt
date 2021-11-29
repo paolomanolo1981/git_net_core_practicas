@@ -35,3 +35,4 @@ D:\practicas\net_core\git_net_core_practicas\01.consola\consola\consola\obj\Debu
 D:\practicas\net_core\git_net_core_practicas\01.consola\consola\consola\obj\Debug\net5.0\ref\consola.dll
 D:\practicas\net_core\git_net_core_practicas\01.consola\consola\consola\obj\Debug\net5.0\consola.pdb
 D:\practicas\net_core\git_net_core_practicas\01.consola\consola\consola\obj\Debug\net5.0\consola.genruntimeconfig.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\consola\obj\Debug\net5.0\consola.csproj.CopyComplete

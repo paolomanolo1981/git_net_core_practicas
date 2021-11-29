@@ -13,3 +13,4 @@ D:\practicas\net_core\git_net_core_practicas\01.consola\consola\propiedades\obj\
 D:\practicas\net_core\git_net_core_practicas\01.consola\consola\propiedades\obj\Debug\net5.0\ref\propiedades.dll
 D:\practicas\net_core\git_net_core_practicas\01.consola\consola\propiedades\obj\Debug\net5.0\propiedades.pdb
 D:\practicas\net_core\git_net_core_practicas\01.consola\consola\propiedades\obj\Debug\net5.0\propiedades.genruntimeconfig.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\propiedades\obj\Debug\net5.0\propiedades.csproj.AssemblyReference.cache

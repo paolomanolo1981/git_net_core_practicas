@@ -13,3 +13,4 @@ D:\practicas\net_core\git_net_core_practicas\01.consola\consola\clases_objetos\o
 D:\practicas\net_core\git_net_core_practicas\01.consola\consola\clases_objetos\obj\Debug\net5.0\ref\clases_objetos.dll
 D:\practicas\net_core\git_net_core_practicas\01.consola\consola\clases_objetos\obj\Debug\net5.0\clases_objetos.pdb
 D:\practicas\net_core\git_net_core_practicas\01.consola\consola\clases_objetos\obj\Debug\net5.0\clases_objetos.genruntimeconfig.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\clases_objetos\obj\Debug\net5.0\clases_objetos.csproj.AssemblyReference.cache

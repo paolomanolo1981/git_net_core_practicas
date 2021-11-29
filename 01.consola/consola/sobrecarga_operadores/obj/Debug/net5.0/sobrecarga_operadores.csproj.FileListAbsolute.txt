@@ -1,0 +1,15 @@
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\sobrecarga_operadores\obj\Debug\net5.0\sobrecarga_operadores.GeneratedMSBuildEditorConfig.editorconfig
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\sobrecarga_operadores\obj\Debug\net5.0\sobrecarga_operadores.AssemblyInfoInputs.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\sobrecarga_operadores\obj\Debug\net5.0\sobrecarga_operadores.AssemblyInfo.cs
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\sobrecarga_operadores\obj\Debug\net5.0\sobrecarga_operadores.csproj.CoreCompileInputs.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\sobrecarga_operadores\bin\Debug\net5.0\sobrecarga_operadores.exe
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\sobrecarga_operadores\bin\Debug\net5.0\sobrecarga_operadores.deps.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\sobrecarga_operadores\bin\Debug\net5.0\sobrecarga_operadores.runtimeconfig.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\sobrecarga_operadores\bin\Debug\net5.0\sobrecarga_operadores.runtimeconfig.dev.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\sobrecarga_operadores\bin\Debug\net5.0\sobrecarga_operadores.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\sobrecarga_operadores\bin\Debug\net5.0\ref\sobrecarga_operadores.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\sobrecarga_operadores\bin\Debug\net5.0\sobrecarga_operadores.pdb
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\sobrecarga_operadores\obj\Debug\net5.0\sobrecarga_operadores.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\sobrecarga_operadores\obj\Debug\net5.0\ref\sobrecarga_operadores.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\sobrecarga_operadores\obj\Debug\net5.0\sobrecarga_operadores.pdb
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\sobrecarga_operadores\obj\Debug\net5.0\sobrecarga_operadores.genruntimeconfig.cache

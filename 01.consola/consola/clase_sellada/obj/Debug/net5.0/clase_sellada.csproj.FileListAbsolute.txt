@@ -1,0 +1,16 @@
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\clase_sellada\bin\Debug\net5.0\clase_sellada.exe
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\clase_sellada\bin\Debug\net5.0\clase_sellada.deps.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\clase_sellada\bin\Debug\net5.0\clase_sellada.runtimeconfig.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\clase_sellada\bin\Debug\net5.0\clase_sellada.runtimeconfig.dev.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\clase_sellada\bin\Debug\net5.0\clase_sellada.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\clase_sellada\bin\Debug\net5.0\ref\clase_sellada.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\clase_sellada\bin\Debug\net5.0\clase_sellada.pdb
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\clase_sellada\obj\Debug\net5.0\clase_sellada.csproj.AssemblyReference.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\clase_sellada\obj\Debug\net5.0\clase_sellada.GeneratedMSBuildEditorConfig.editorconfig
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\clase_sellada\obj\Debug\net5.0\clase_sellada.AssemblyInfoInputs.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\clase_sellada\obj\Debug\net5.0\clase_sellada.AssemblyInfo.cs
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\clase_sellada\obj\Debug\net5.0\clase_sellada.csproj.CoreCompileInputs.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\clase_sellada\obj\Debug\net5.0\clase_sellada.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\clase_sellada\obj\Debug\net5.0\ref\clase_sellada.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\clase_sellada\obj\Debug\net5.0\clase_sellada.pdb
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\clase_sellada\obj\Debug\net5.0\clase_sellada.genruntimeconfig.cache

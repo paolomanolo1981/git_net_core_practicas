@@ -13,3 +13,4 @@ D:\practicas\net_core\git_net_core_practicas\01.consola\consola\MiICompare\obj\D
 D:\practicas\net_core\git_net_core_practicas\01.consola\consola\MiICompare\obj\Debug\net5.0\ref\MiICompare.dll
 D:\practicas\net_core\git_net_core_practicas\01.consola\consola\MiICompare\obj\Debug\net5.0\MiICompare.pdb
 D:\practicas\net_core\git_net_core_practicas\01.consola\consola\MiICompare\obj\Debug\net5.0\MiICompare.genruntimeconfig.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\MiICompare\obj\Debug\net5.0\MiICompare.csproj.AssemblyReference.cache

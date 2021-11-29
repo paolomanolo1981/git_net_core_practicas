@@ -1,0 +1,16 @@
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\body_members\obj\Debug\net5.0\body_members.csproj.AssemblyReference.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\body_members\obj\Debug\net5.0\body_members.GeneratedMSBuildEditorConfig.editorconfig
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\body_members\obj\Debug\net5.0\body_members.AssemblyInfoInputs.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\body_members\obj\Debug\net5.0\body_members.AssemblyInfo.cs
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\body_members\obj\Debug\net5.0\body_members.csproj.CoreCompileInputs.cache
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\body_members\bin\Debug\net5.0\body_members.exe
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\body_members\bin\Debug\net5.0\body_members.deps.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\body_members\bin\Debug\net5.0\body_members.runtimeconfig.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\body_members\bin\Debug\net5.0\body_members.runtimeconfig.dev.json
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\body_members\bin\Debug\net5.0\body_members.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\body_members\bin\Debug\net5.0\ref\body_members.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\body_members\bin\Debug\net5.0\body_members.pdb
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\body_members\obj\Debug\net5.0\body_members.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\body_members\obj\Debug\net5.0\ref\body_members.dll
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\body_members\obj\Debug\net5.0\body_members.pdb
+D:\practicas\net_core\git_net_core_practicas\01.consola\consola\body_members\obj\Debug\net5.0\body_members.genruntimeconfig.cache
